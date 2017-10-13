@@ -25,11 +25,11 @@ Feature engineering is the process of using domain knowledge of the data to crea
 ## Pre Reads
 
 * [Data Preparation for Predictive Modeling: Centering & Scaling](http://shahramabyari.com/2015/12/20/data-preparation-for-predictive-modeling-centering-scaling/)
-* [](http://shahramabyari.com/2015/12/21/data-preparation-for-predictive-modeling-resolving-skewness/)
-* [](https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/)
-* [](https://stackoverflow.com/questions/25343411/is-there-a-way-to-determine-the-order-of-labels-in-scikit-learns-labelencoder)
-* [](https://stackoverflow.com/questions/21057621/sklearn-labelencoder-with-never-seen-before-values)
-* [](https://stackoverflow.com/questions/37292872/how-can-i-one-hot-encode-in-python)
+* [Data Preparation for Predictive Modeling: Resolving Skewness](http://shahramabyari.com/2015/12/21/data-preparation-for-predictive-modeling-resolving-skewness/)
+* [Practical Guide on Data Preprocessing in Python using Scikit Learn](https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/)
+* [Is there a way to determine the order of labels in scikit-learn's LabelEncoder?](https://stackoverflow.com/questions/25343411/is-there-a-way-to-determine-the-order-of-labels-in-scikit-learns-labelencoder)
+* [sklearn.LabelEncoder with never seen before values](https://stackoverflow.com/questions/21057621/sklearn-labelencoder-with-never-seen-before-values)
+* [How can I one hot encode in Python?](https://stackoverflow.com/questions/37292872/how-can-i-one-hot-encode-in-python)
 
 
 ## Learning Objective
@@ -48,13 +48,13 @@ Check the Jupyter Notebook in the top right of the screen
 
 
 ## Post Reads
-[](https://github.com/scikit-learn-contrib/categorical-encoding)
-[](http://pbpython.com/categorical-encoding.html)
-[](https://www.kaggle.com/c/caterpillar-tube-pricing/discussion/15748)
-[](https://github.com/rouseguy/categorical_encoding)
-[](https://www.quora.com/What-are-the-best-practices-for-coding-a-categorical-variable-for-a-linear-regression)
-[](https://discuss.analyticsvidhya.com/t/dummy-encoding-for-ordered-categorical-data/14034/2)
-[](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
+[A library of sklearn compatible categorical variable encoders](https://github.com/scikit-learn-contrib/categorical-encoding)
+[Guide to Encoding Categorical Values in Python](http://pbpython.com/categorical-encoding.html)
+[Strategies to encode categorical variables with many categories](https://www.kaggle.com/c/caterpillar-tube-pricing/discussion/15748)
+[A library of sklearn compatible categorical variable encoders](https://github.com/rouseguy/categorical_encoding)
+[What are the best practices for coding a categorical variable for a linear regression?](https://www.quora.com/What-are-the-best-practices-for-coding-a-categorical-variable-for-a-linear-regression)
+[Dummy encoding for ordered categorical data](https://discuss.analyticsvidhya.com/t/dummy-encoding-for-ordered-categorical-data/14034/2)
+[Simple Methods to deal with Categorical Variables in Predictive Modeling](https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/)
 
 ## Project
 Iowa Dataset
