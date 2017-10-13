@@ -9,9 +9,9 @@ Feature engineering is the process of using domain knowledge of the data to crea
 
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
-  * Total sub tasks within the Project: 4
+  * Total sub tasks within the Project: 5
   * Complexity of sub tasks : Mid to High
-  * Points to be scored : 350
+  * Points to be scored : 500
 
 
 ## In-Class Activities
